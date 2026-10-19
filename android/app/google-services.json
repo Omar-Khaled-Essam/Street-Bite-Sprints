@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329782492880",
+    "project_id": "streetbrite-ae5e2",
+    "storage_bucket": "streetbrite-ae5e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329782492880:android:133cf5634ed3fa24f568d5",
+        "android_client_info": {
+          "package_name": "com.example.streetbrite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvT3WnjlInOKqtzizwSUGjjhiSQd7S5eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

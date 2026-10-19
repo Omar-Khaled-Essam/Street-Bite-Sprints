@@ -1,0 +1,174 @@
+{
+  "@@locale": "ar",
+  "appName": "ستريت بايت",
+  "heroTitle": "طعام وبقالة يُوصلان إليك",
+  "heroSubtitle": "أدخل بياناتك للبدء",
+  "continueLabel": "متابعة",
+  "loginTitle": "تسجيل الدخول",
+  "signUpTitle": "إنشاء حساب",
+  "fullName": "الاسم الكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "alreadyHaveAccount": "لديك حساب؟ سجل الدخول",
+  "noAccount": "ليس لديك حساب؟ أنشئ حساباً",
+  "login": "تسجيل الدخول",
+  "createAccount": "إنشاء حساب",
+  "nameCapitalError": "يجب أن يبدأ الاسم بحرف كبير",
+  "emailError": "أدخل بريداً إلكترونياً صالحاً",
+  "passwordError": "يجب ألا تقل كلمة المرور عن 6 أحرف",
+  "confirmPasswordError": "كلمتا المرور غير متطابقتين",
+  "requiredField": "هذا الحقل مطلوب",
+  "home": "الرئيسية",
+  "browse": "تصفح",
+  "orders": "الطلبات",
+  "profile": "الملف",
+  "searchHint": "طعام، بقالة، وغيرها",
+  "fastest": "الأسرع",
+  "recommended": "موصى به",
+  "hotOffers": "عروض ساخنة",
+  "featured": "مميز",
+  "addToCart": "أضف إلى السلة",
+  "addedToCart": "تمت الإضافة إلى السلة",
+  "viewCart": "عرض السلة",
+  "mealDetails": "تفاصيل الوجبة",
+  "category": "التصنيف",
+  "origin": "المنشأ",
+  "instructions": "طريقة التحضير",
+  "favouriteSaved": "أُضيف إلى المفضلة",
+  "favouriteRemoved": "أُزيل من المفضلة",
+  "cart": "الطلب",
+  "cartEmpty": "سلتك فارغة",
+  "remove": "إزالة",
+  "subtotal": "المجموع الفرعي",
+  "deliveryFee": "رسوم التوصيل",
+  "feesAndTaxes": "رسوم وضرائب",
+  "discount": "خصم",
+  "seeMenu": "عرض القائمة",
+  "delivery": "توصيل",
+  "pickup": "استلام",
+  "checkout": "الدفع",
+  "placeOrder": "تأكيد الطلب",
+  "deliveryTime": "وقت التوصيل",
+  "express": "سريع",
+  "standard": "عادي",
+  "addPromo": "إضافة عرض",
+  "leaveAtDoor": "اتركه عند الباب",
+  "addMoreDetails": "أضف مزيداً من التفاصيل",
+  "paymentCash": "الدفع نقداً عند الاستلام",
+  "paymentCard": "بطاقة",
+  "orderPlaced": "تم تقديم الطلب بنجاح",
+  "addCard": "إضافة بطاقة",
+  "cardNumber": "رقم البطاقة",
+  "nameOnCard": "الاسم",
+  "exp": "الانتهاء",
+  "cvv": "CVV",
+  "zip": "الرمز البريدي",
+  "defaultPayment": "طريقة الدفع الافتراضية",
+  "deliveryAddress": "عنوان التوصيل",
+  "adjustPin": "ضبط الدبوس",
+  "address": "العنوان",
+  "apartment": "الشقة",
+  "comment": "ملاحظة",
+  "nearbyVendors": "البائعون القريبون",
+  "settings": "الإعدادات",
+  "contactUs": "تواصل معنا",
+  "helpCenter": "مركز المساعدة",
+  "darkMode": "الوضع الداكن",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "deviceDetails": "تفاصيل الجهاز",
+  "favourites": "المفضلة",
+  "orderHistory": "سجل الطلبات",
+  "past": "السابقة",
+  "biometricPrompt": "أكد بصمة إصبعك لفتح الملف الشخصي",
+  "biometricFailed": "فشل التحقق البيومتري",
+  "retry": "إعادة المحاولة",
+  "networkError": "تعذر الوصول إلى القائمة. حاول مرة أخرى.",
+  "unknownError": "حدث خطأ. حاول مرة أخرى.",
+  "popular": "الأكثر طلباً",
+  "newLabel": "جديد",
+  "search": "بحث",
+  "categories": "التصنيفات",
+  "promoBannerTitle": "توصيل مجاني للطلبات فوق 30$",
+  "promoBannerBody": "استخدم الرمز WELCOME30 على أي طلب",
+  "orderReceived": "تم استلام الطلب",
+  "cookingOrder": "جاري تحضير طلبك",
+  "lookingCourier": "البحث عن مندوب",
+  "courierPicking": "المندوب يستلم الطلب",
+  "orderDelivered": "تم التوصيل",
+  "preparingOrder": "جاري تجهيز طلبك",
+  "arrivesIn": "يصل خلال {range} دقيقة",
+  "@arrivesIn": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "itemsCount": "{count} أصناف",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today": "اليوم",
+  "daysAgo": "قبل {count} أيام",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ratingDistance": "{rating} ★  ·  {distance}  ·  {time}",
+  "@ratingDistance": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "تسجيل الخروج",
+  "save": "حفظ",
+  "themeToggle": "تبديل المظهر",
+  "cuisine": "نوع المطبخ",
+  "vendorRating": "التقييم {rating}",
+  "@vendorRating": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneHint": "(555) 555-1234",
+  "countryCode": "+1",
+  "meals": "الوجبات",
+  "expressEta": "10-15 دقيقة",
+  "standardEta": "20-25 دقيقة",
+  "expressFee": "+ 2.99$",
+  "defaultAddressLabel": "بارك واي 145",
+  "defaultPhoneLabel": "(628) 222-1133",
+  "mainEntrance": "المدخل الرئيسي",
+  "reviewsCount": "({count})",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "contactCourier": "تواصل مع المندوب",
+  "help": "مساعدة",
+  "invalidCredentials": "البريد أو كلمة المرور غير صحيحة.",
+  "emailInUse": "هذا البريد مسجل مسبقاً."
+}

@@ -1,0 +1,174 @@
+{
+  "@@locale": "en",
+  "appName": "StreetBite",
+  "heroTitle": "Food and groceries delivered to you",
+  "heroSubtitle": "Enter your details to get started",
+  "continueLabel": "Continue",
+  "loginTitle": "Log in",
+  "signUpTitle": "Sign up",
+  "fullName": "Full name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "alreadyHaveAccount": "Already have an account? Log in",
+  "noAccount": "Don't have an account? Sign up",
+  "login": "Log in",
+  "createAccount": "Create account",
+  "nameCapitalError": "Full name must start with a capital letter",
+  "emailError": "Enter a valid email address",
+  "passwordError": "Password must be at least 6 characters",
+  "confirmPasswordError": "Passwords do not match",
+  "requiredField": "This field is required",
+  "home": "Home",
+  "browse": "Browse",
+  "orders": "Orders",
+  "profile": "Profile",
+  "searchHint": "Food, groceries, etc.",
+  "fastest": "Fastest",
+  "recommended": "Recommended",
+  "hotOffers": "Hot Offers",
+  "featured": "Featured",
+  "addToCart": "Add to cart",
+  "addedToCart": "Added to cart",
+  "viewCart": "View cart",
+  "mealDetails": "Meal details",
+  "category": "Category",
+  "origin": "Origin",
+  "instructions": "Instructions",
+  "favouriteSaved": "Saved to favourites",
+  "favouriteRemoved": "Removed from favourites",
+  "cart": "Order",
+  "cartEmpty": "Your cart is empty",
+  "remove": "Remove",
+  "subtotal": "Subtotal",
+  "deliveryFee": "Delivery fee",
+  "feesAndTaxes": "Fees & Taxes",
+  "discount": "Discount",
+  "seeMenu": "See menu",
+  "delivery": "Delivery",
+  "pickup": "Pickup",
+  "checkout": "Checkout",
+  "placeOrder": "Place order",
+  "deliveryTime": "Delivery Time",
+  "express": "Express",
+  "standard": "Standard",
+  "addPromo": "Add promo",
+  "leaveAtDoor": "Leave it at my door",
+  "addMoreDetails": "Add more details",
+  "paymentCash": "Cash on delivery",
+  "paymentCard": "Card",
+  "orderPlaced": "Order placed successfully",
+  "addCard": "Add card",
+  "cardNumber": "Card number",
+  "nameOnCard": "Name",
+  "exp": "Exp",
+  "cvv": "CVV",
+  "zip": "Zip",
+  "defaultPayment": "Default payment method",
+  "deliveryAddress": "Delivery address",
+  "adjustPin": "Adjust pin",
+  "address": "Address",
+  "apartment": "Apartment",
+  "comment": "Comment",
+  "nearbyVendors": "Nearby Vendors",
+  "settings": "Settings",
+  "contactUs": "Contact us",
+  "helpCenter": "Help center",
+  "darkMode": "Dark mode",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "deviceDetails": "Device details",
+  "favourites": "Favourites",
+  "orderHistory": "Order history",
+  "past": "Past",
+  "biometricPrompt": "Confirm your fingerprint to open Profile",
+  "biometricFailed": "Biometric authentication failed",
+  "retry": "Retry",
+  "networkError": "We could not reach the menu. Please try again.",
+  "unknownError": "Something went wrong. Please try again.",
+  "popular": "Popular",
+  "newLabel": "New",
+  "search": "Search",
+  "categories": "Categories",
+  "promoBannerTitle": "$0 delivery fee over $30",
+  "promoBannerBody": "Use WELCOME30 promo code on any order",
+  "orderReceived": "Order received",
+  "cookingOrder": "Cooking your order",
+  "lookingCourier": "Looking for courier",
+  "courierPicking": "Courier is picking up order",
+  "orderDelivered": "Order delivered",
+  "preparingOrder": "Preparing your order",
+  "arrivesIn": "Arrives in {range} min",
+  "@arrivesIn": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "contactCourier": "Contact courier",
+  "help": "Help",
+  "itemsCount": "{count} items",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today": "Today",
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ratingDistance": "{rating} ★  ·  {distance}  ·  {time}",
+  "@ratingDistance": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Log out",
+  "save": "Save",
+  "themeToggle": "Toggle theme",
+  "cuisine": "Cuisine",
+  "vendorRating": "Rating {rating}",
+  "@vendorRating": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneHint": "(555) 555-1234",
+  "countryCode": "+1",
+  "meals": "Meals",
+  "expressEta": "10-15 min",
+  "standardEta": "20-25 min",
+  "expressFee": "+ $2.99",
+  "defaultAddressLabel": "Park Way 145",
+  "defaultPhoneLabel": "(628) 222-1133",
+  "mainEntrance": "Main entrance",
+  "reviewsCount": "({count})",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "invalidCredentials": "Incorrect email or password.",
+  "emailInUse": "This email is already registered."
+}
